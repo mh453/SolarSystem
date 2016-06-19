@@ -17,4 +17,4 @@ To move the UFOs first move your mouse to it, then right click and then move
 ![Image of UFO ](https://github.com/mh453/SolarSystem/blob/master/screenshots/ufo1.PNG)
 
 Once the UFO hits the Sun it turns blue (it contaminates the sun)
-![Image of UFO](https://github.com/mh453/SolarSystem/blob/master/screenshots/ufos2.PNG)
+![Image of UFO](https://github.com/mh453/SolarSystem/blob/master/screenshots/ufo2.PNG)
